@@ -1,0 +1,22 @@
+﻿
+body {
+    background-color: #E2E2E2;
+
+}
+.set-pad {
+    padding-top:120px;
+}
+.error-txt {
+    font-size:50px;
+    display:block;
+    padding-bottom:10px;
+}
+.p-err {
+    font-size:20px;
+    padding:20px;
+}
+.c-err {
+    background-color:#fec2b0;
+    padding:30px 0px 0px 0px;
+    margin:20px 0px;
+}

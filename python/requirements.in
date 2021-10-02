@@ -1,0 +1,8 @@
+flask
+opencv-python
+imutils
+numpy
+python-dotenv
+imagehash
+firebase-admin
+requests-auth
